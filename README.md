@@ -1,4 +1,6 @@
-walker
+Walker
 ======
 
-simple url walker for php projects
+Walk the urls and generate code coverage for executed PHP code
+
+*Work-in-progress proof-of-concept*
